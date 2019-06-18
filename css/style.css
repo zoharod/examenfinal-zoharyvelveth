@@ -1,0 +1,238 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat:300,400,600,700,800&display=swap');
+
+body{
+	font-family: Montserrat !important;
+}
+
+
+h1,h2,h3,h4,h5,h6{
+	margin:0;
+}
+
+.list h5{
+	margin:0;
+}
+
+.img-fluid{
+	max-width: 100%;
+	display: block;
+	
+}
+
+.trending{
+	border-radius: 50%;
+}
+
+
+.title{
+	font-size: 15px;
+	font-weight: 200;
+	text-align: center!important;
+	align-content: center;
+}
+
+.artistan{
+	font-size: 8px;
+	font-weight: 700!important;
+}
+
+
+.artistano{
+	font-size: 8px;
+}
+
+.play-img{
+	border-radius: 10px;
+	margin-bottom: 5px;
+}
+
+
+
+
+
+.coffee .card-header{
+  padding: 0;
+}
+
+
+.card.menu{
+	background-size:cover;
+	background-position: center;
+	background-repeat:no-repeat;
+	color:#fff;
+	text-align:center;
+}
+
+
+
+.overlay{
+	background-color:rgba(0,0,0,0.70)
+}
+
+.menu .card-content{
+	padding:35px 0;
+}
+
+.menu h4{
+	margin:0;
+	font-size:20px;
+}
+
+.menu p{
+	margin:0;
+	font-size:12px;
+}
+
+.menu a{
+	color:#fff;
+}
+
+
+.bg-espresso{
+	background-image: url(../img/bg-coffee.jpg)
+}
+
+.bg-cookies{
+	background-image: url(../img/bg-cookies.jpg)
+}
+
+.bg-lunch{
+	background-image: url(../img/bg-lunch.jpg)
+}
+
+
+.menus .card-content{
+	padding:10px;
+	text-align:center;
+}
+
+.menus h3{
+	font-size: 16px;
+	color:#2D2D2D;
+	margin-bottom: 0;
+
+}
+
+.menus p{
+	font-size:12px;
+	color:#0C9F3C;
+	font-weight:600;
+}
+
+.product{
+	color:#2d2d2d;
+	font-size: 16px;
+	font-weight: 600;
+}
+
+
+.price{
+	color:#0C9F3C;
+	font-size: 16px;
+	font-weight: 600;
+}
+
+.button-green{
+	background-color: #0C9F3C !important;
+}
+
+
+
+
+
+.block-title{
+	text-align: center;
+	
+}
+
+
+.overlay-morado{
+	background-color:#4e7cbe;
+	padding:30px!important;
+}
+
+.bg-bdias{
+	background-image:url( ../img/matt-artz-353129-unsplash.jpg)}
+
+
+
+
+
+.perfil{
+	border-radius:100%;
+	
+}
+
+.perfil-follows{
+	text-align: center;
+	align-content: center;
+}
+
+.number{
+	color: rgba(0,171,255,1.00);
+}
+
+.nombre{
+	text-align: left;
+}
+
+.lugar{
+	text-align: left;
+	font-size: 11px;
+	color: rgba(103,102,102,1.00);
+}
+
+
+.b-portada{
+	margin: -35px;
+	margin-bottom: 5px;
+}
+
+.borde-azul{
+	border-left: 7px  solid #00ABFF;
+	padding-left: 10px;
+}
+
+
+.col-40 img{
+	border-radius:50%;
+}
+
+.col-40{
+	padding: 10px;
+}
+
+#albums-complete{
+	background-color: #D5D5D5;
+}
+
+#album-1{
+	background-color: #fff;
+	margin-left: -15px;
+	margin-right: -30px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	margin-bottom: -10px;
+	
+}
+
+.album-rest{
+	background-color: #fff;
+	margin-left: -15px;
+	margin-right: -30px;
+	margin-bottom: 20px;
+	margin-top: 20px;
+	
+}
+
+.album-2{
+   background-color: #fff;
+	margin-left: -15px;
+	margin-right: -30px;
+	margin-bottom: 20px;
+	margin-top: 5px;
+}
+
+
+
+
